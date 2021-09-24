@@ -1,0 +1,4 @@
+pint>=0.16.1
+sympy>=1.6.2
+numpy>=1.2
+matplotlib

@@ -1,0 +1,4 @@
+/.idea/
+/env/
+/tests/notebooks/.ipynb_checkpoints/*
+/tests/.ipynb_checkpoints/
